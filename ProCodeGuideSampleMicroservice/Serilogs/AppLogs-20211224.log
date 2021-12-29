@@ -1,0 +1,9 @@
+02:35:54.079 +03:00 [Information] Application started. Press Ctrl+C to shut down.
+02:35:54.122 +03:00 [Information] Hosting environment: "Development"
+02:35:54.123 +03:00 [Information] Content root path: "C:\Users\beza\source\repos\ProCodeGuideSampleMicroservice\ProCodeGuideSampleMicroservice"
+02:35:54.179 +03:00 [Information] Request starting HTTP/1.1 GET http://localhost:63678/weatherforecast  
+02:35:54.386 +03:00 [Information] Request finished in 222.5365ms 404 
+02:36:09.876 +03:00 [Information] Request starting HTTP/1.1 GET http://localhost:63678/api/order  
+02:36:09.883 +03:00 [Information] Request finished in 4.2258ms 404 
+02:36:23.392 +03:00 [Information] Request starting HTTP/1.1 GET http://localhost:63678/api/  
+02:36:23.397 +03:00 [Information] Request finished in 4.5685ms 404 

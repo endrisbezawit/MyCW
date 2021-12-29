@@ -1,0 +1,18 @@
+23:39:56.671 +00:00 [Information] Now listening on: "http://[::]:80"
+23:39:56.676 +00:00 [Information] Application started. Press Ctrl+C to shut down.
+23:39:56.676 +00:00 [Information] Hosting environment: "Development"
+23:39:56.676 +00:00 [Information] Content root path: "/app"
+23:40:13.645 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49154/weatherforecast  
+23:40:13.700 +00:00 [Information] Request finished in 54.2821ms 404 
+23:40:34.478 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49154/order  
+23:40:34.487 +00:00 [Information] Request finished in 8.9932ms 404 
+23:40:44.778 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49154/api/order  
+23:40:44.781 +00:00 [Information] Request finished in 3.5009ms 404 
+23:40:49.659 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49154/api/order  
+23:40:49.667 +00:00 [Information] Request finished in 8.7453ms 404 
+23:40:51.871 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49154/api/order  
+23:40:51.873 +00:00 [Information] Request finished in 1.8285ms 404 
+23:41:18.189 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49154/api/order  
+23:41:18.193 +00:00 [Information] Request finished in 5.7899ms 404 
+23:42:49.395 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49154/  
+23:42:49.407 +00:00 [Information] Request finished in 13.7921ms 404 

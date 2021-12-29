@@ -1,0 +1,26 @@
+16:44:54.460 +00:00 [Information] Now listening on: "http://[::]:80"
+16:44:54.475 +00:00 [Information] Application started. Press Ctrl+C to shut down.
+16:44:54.475 +00:00 [Information] Hosting environment: "Development"
+16:44:54.475 +00:00 [Information] Content root path: "/app"
+16:45:12.332 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49154/weatherforecast  
+16:45:12.421 +00:00 [Information] Request finished in 95.2546ms 404 
+17:00:53.137 +00:00 [Information] Now listening on: "http://[::]:80"
+17:00:53.142 +00:00 [Information] Application started. Press Ctrl+C to shut down.
+17:00:53.142 +00:00 [Information] Hosting environment: "Development"
+17:00:53.142 +00:00 [Information] Content root path: "/app"
+17:01:16.977 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49154/weatherforecast  
+17:01:17.057 +00:00 [Information] Request finished in 85.5678ms 404 
+17:01:46.169 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49154/api/order  
+17:01:46.174 +00:00 [Information] Request finished in 4.8419ms 404 
+17:01:49.354 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49154/api/order  
+17:01:49.358 +00:00 [Information] Request finished in 4.5702ms 404 
+17:04:18.971 +00:00 [Information] Now listening on: "http://[::]:80"
+17:04:18.976 +00:00 [Information] Application started. Press Ctrl+C to shut down.
+17:04:18.976 +00:00 [Information] Hosting environment: "Development"
+17:04:18.976 +00:00 [Information] Content root path: "/app"
+17:04:43.114 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49154/weatherforecast  
+17:04:43.185 +00:00 [Information] Request finished in 75.3944ms 404 
+17:05:13.143 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49154/order  
+17:05:13.152 +00:00 [Information] Request finished in 8.6486ms 404 
+17:05:42.874 +00:00 [Information] Request starting HTTP/1.1 GET http://localhost:49154/api/order  
+17:05:42.881 +00:00 [Information] Request finished in 4.4733ms 404 
